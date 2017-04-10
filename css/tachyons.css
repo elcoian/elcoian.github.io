@@ -765,6 +765,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .calisto { font-family: "Calisto MT", serif; }
 .garamond { font-family: garamond, serif; }
 .baskerville { font-family: baskerville, serif; }
+.custom-font{ font-family: Akkurat; src: url('Akkurat.ttf'); } 
 /*
 
    FONT STYLE
